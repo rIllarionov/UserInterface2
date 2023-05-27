@@ -10427,12 +10427,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6db4e1df93db8453bbae44bc3d20656b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: TwoHandsSword
-  _health: 50
-  _atack: 90
-  _defense: 30
-  _speed: 0
-  _price: 9450
+  <_name>k__BackingField: TwoHandsSword
+  <_health>k__BackingField: 60
+  <_atack>k__BackingField: 90
+  <_defense>k__BackingField: 40
+  <_speed>k__BackingField: 30
+  <_price>k__BackingField: 6350
 --- !u!1 &1801486331746464
 GameObject:
   m_ObjectHideFlags: 0

@@ -5,10 +5,18 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    [SerializeField] internal GameObject[] _heroes;
-    [SerializeField] internal Wallet _wallet;
-    internal GameObject _currentHero;
-    internal GameObject _startHero;
-    internal int _startIndex;
-    internal int _indexCurrentHero;
+    [field:SerializeField] public GameObject[] _heroes { get; private set; }
+    [field:SerializeField] public Wallet _wallet { get; private set; }
+    public GameObject _currentHero { get; private set; }
+    public int _indexCurrentHero { get; private set; }
+
+    public void SetCurrentHero(GameObject hero)
+    {
+        _currentHero = hero;
+    }
+    
+    public void SetCurrentIndex(int index)
+    {
+        _indexCurrentHero = index;
+    }
 }

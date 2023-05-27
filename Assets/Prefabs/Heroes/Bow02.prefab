@@ -11001,12 +11001,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6db4e1df93db8453bbae44bc3d20656b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: Bow
-  _health: 50
-  _atack: 60
-  _defense: 40
-  _speed: 50
-  _price: 5250
+  <_name>k__BackingField: Bow
+  <_health>k__BackingField: 60
+  <_atack>k__BackingField: 60
+  <_defense>k__BackingField: 50
+  <_speed>k__BackingField: 60
+  <_price>k__BackingField: 4500
 --- !u!1 &1920731997030702
 GameObject:
   m_ObjectHideFlags: 0

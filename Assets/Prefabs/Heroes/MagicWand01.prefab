@@ -12282,12 +12282,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6db4e1df93db8453bbae44bc3d20656b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: MagicWand
-  _health: 30
-  _atack: 40
-  _defense: 90
-  _speed: 90
-  _price: 7350
+  <_name>k__BackingField: MagicWand
+  <_health>k__BackingField: 100
+  <_atack>k__BackingField: 40
+  <_defense>k__BackingField: 70
+  <_speed>k__BackingField: 100
+  <_price>k__BackingField: 7650
 --- !u!1 &1973779820340038
 GameObject:
   m_ObjectHideFlags: 0

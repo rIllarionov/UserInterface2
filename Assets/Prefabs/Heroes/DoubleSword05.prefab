@@ -11858,12 +11858,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6db4e1df93db8453bbae44bc3d20656b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: DoubleSword
-  _health: 30
-  _atack: 100
-  _defense: 40
-  _speed: 30
-  _price: 8990
+  <_name>k__BackingField: DoubleSword
+  <_health>k__BackingField: 50
+  <_atack>k__BackingField: 80
+  <_defense>k__BackingField: 30
+  <_speed>k__BackingField: 30
+  <_price>k__BackingField: 5650
 --- !u!1 &1940262280019192
 GameObject:
   m_ObjectHideFlags: 0

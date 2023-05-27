@@ -14,7 +14,7 @@ public class Wallet : MonoBehaviour
         SetMoneyValue();
     }
 
-    public bool ByeItem(float coast)
+    public bool BuyItem(float coast)
     {
         if (_cash<coast)
         {

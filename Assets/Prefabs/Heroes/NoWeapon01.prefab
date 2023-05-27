@@ -367,12 +367,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6db4e1df93db8453bbae44bc3d20656b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _name: NoWeapon
-  _health: 90
-  _atack: 30
-  _defense: 60
-  _speed: 100
-  _price: 4560
+  <_name>k__BackingField: NoWeapon
+  <_health>k__BackingField: 100
+  <_atack>k__BackingField: 20
+  <_defense>k__BackingField: 40
+  <_speed>k__BackingField: 100
+  <_price>k__BackingField: 0
 --- !u!1 &4631967629009302705
 GameObject:
   m_ObjectHideFlags: 0
